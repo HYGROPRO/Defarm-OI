@@ -11,6 +11,32 @@ As a defarmer, feel free to add a resource that has helped you understand someth
 
 ily -Ivy
 
+#Quick Tutorial
+
+This tutorial is a loose description of what it takes to create your own grow situation. There are a lot of options and choices to make and this tutorial is meant to highlight those choices.
+
+Easy:
+The easiest way to get a grow going is to go to a garden store and purchase a plant. Some farmers markets even have plant sections. They come with dirt and are usually pretty happy and taken care of. You will likely have to repot the purchased plant from the plastic container into a more perminant vessel. A lot of the time, you'll want to avoid plastic pots or ceramic glaze pots because they don't let moisture escape. Terra cotta pots are cheap and plant root systems like them.
+
+When getting plants for your home, make sure you have a good idea of how much light you get through your windows. If your house has large south facing windows and no trees blocking the sun, you are able to keep plants that are light hungry. Most house plants are popular for their inclination for shade so you can manage pretty well if you set the right expectations. 
+
+The size of the pot for the plant should closely resemble the action happening above ground. You should also be sure that the soil you get has some form of fertilizer. Potting soil from the store should do the trick. Check your plant species for more specifications about what their needs are for moisture. Try to keep heir soil how they like it and think happy thoughts. You'll do great!
+
+Hard:
+The hard way to grow plants is to use technology. This is harder because technology is clumsy and stupid. It takes a lot of preparation for technology to meet the needs of plant life, and it still isn't fully automatic. Besides, computers can't think the happy thoughts that really make plants grow faster. Regardless, it is a great way to grow plants that wouldn't otherwise thrive in your home.
+
+Once you step out into automation, you are standing in for Mother Nature. It's a big responsibility. Make sure you have a plan for the following crucial things:
+
+Water, Light, Air, Nutrients
+
+If you are still using potted soil, you just need to automate lights, fans and peristaltic pumps for water. Usually people who take this approach use a soil moisture sensor to help with the water automation. The light and air automation can be as simple as a timer plug set to however may hours the plant needs. It's good to enclose the grow to contain the heat of the lamp as well as protect the grow from pests. Grow tents are plentiful online. If the aesthetic of a grow tent is beneath you, I would recommend building something that encompasses the tent to suit your fancy.
+
+To step out into the soilless, you will need to plumb a hydroponic system and be responsible for the nutrient levels. This is a very delicate process, but it can bring greater yields if you can get the hang of it. Different plants require a different method of water delivery. Lettuces and simple low plants can be grown on a float tray, where tomatoes appreciate an ebb and flow system. Most setups feature a Nutrient Film Technique and there are 3 others.
+
+https://hydropros.com/blogs/growers-corner/6-types-hydroponic-systems#:~:text=There%20are%20six%20main%20types,%2C%20aeroponics%2C%20and%20drip%20systems.
+
+
+
 #General
 
 title: Rudolph Steiner Agriculture Course (8hr)
