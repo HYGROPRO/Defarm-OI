@@ -1,7 +1,7 @@
 # Defarm-OI
-Orgonic Intelligence Defarm Exo-cortex, a collaborative resource log
+### Orgonic Intelligence Defarm Exo-cortex, a collaborative resource log
 
-This markdown document is for the concentration of helpful videos, articles and formulas that serve to educate defarm participants on how to effectively establish their operation and enliven their crops.
+**This markdown document is for the concentration of helpful videos, articles and formulas that serve to educate defarm participants on how to effectively establish their operation and enliven their crops.**
 
 At the moment this document is public but only known to the plantsinside defarm groupchat.
 
@@ -11,18 +11,20 @@ As a defarmer, feel free to add a resource that has helped you understand someth
 
 ily -Ivy
 
-#Quick Tutorial
+# Quick Tutorial
 
 This tutorial is a loose description of what it takes to create your own grow situation. There are a lot of options and choices to make and this tutorial is meant to highlight those choices.
 
-Easy:
+### Easy:
+
 The easiest way to get a grow going is to go to a garden store and purchase a plant. Some farmers markets even have plant sections. They come with dirt and are usually pretty happy and taken care of. You will likely have to repot the purchased plant from the plastic container into a more perminant vessel. A lot of the time, you'll want to avoid plastic pots or ceramic glaze pots because they don't let moisture escape. Terra cotta pots are cheap and plant root systems like them.
 
 When getting plants for your home, make sure you have a good idea of how much light you get through your windows. If your house has large south facing windows and no trees blocking the sun, you are able to keep plants that are light hungry. Most house plants are popular for their inclination for shade so you can manage pretty well if you set the right expectations. 
 
 The size of the pot for the plant should closely resemble the action happening above ground. You should also be sure that the soil you get has some form of fertilizer. Potting soil from the store should do the trick. Check your plant species for more specifications about what their needs are for moisture. Try to keep heir soil how they like it and think happy thoughts. You'll do great!
 
-Hard:
+### Hard:
+
 The hard way to grow plants is to use technology. This is harder because technology is clumsy and stupid. It takes a lot of preparation for technology to meet the needs of plant life, and it still isn't fully automatic. Besides, computers can't think the happy thoughts that really make plants grow faster. Regardless, it is a great way to grow plants that wouldn't otherwise thrive in your home.
 
 Once you step out into automation, you are standing in for Mother Nature. It's a big responsibility. Make sure you have a plan for the following crucial things:
@@ -37,19 +39,14 @@ https://hydropros.com/blogs/growers-corner/6-types-hydroponic-systems#:~:text=Th
 
 
 
-#General
+# General
 
-title: Rudolph Steiner Agriculture Course (8hr)
-link: https://www.youtube.com/watch?v=fwSa8Lpy9-A
-descr: Spiritual foundations of biodynamic farming
--Ivy
+|title| link. | decription | from |
+| ---| ---| --- | --- |
+| Rudolph Steiner Agriculture Course (8hr) | https://www.youtube.com/watch?v=fwSa8Lpy9-A | Spiritual foundations of biodynamic farming | Ivy |
+| Build an Automated Hydroponic System (15m) | https://www.youtube.com/watch?v=nyqykZK2Ev4 | Mycodo Raspberry Pi NFT Auto Garden Tutorial |Ivy | 
 
-title: Build an Automated Hydroponic System (15m)
-link: https://www.youtube.com/watch?v=nyqykZK2Ev4
-descr: Mycodo Raspberry Pi NFT Auto Garden Tutorial
--Ivy
-
-#WANTED WANTED BOUNTY INFO WANTED DEAD OR ALIVE
+# WANTED WANTED BOUNTY INFO WANTED DEAD OR ALIVE
 
 The mission of defarm is to consolidate all independent gardeners and growers into a network of experimental feedback iteration that will drive vertical farm efficiency to the optimized limit.
 
@@ -65,12 +62,12 @@ Assuming the most basic grow sense apparatus contains: Light lux, Air temp/humid
 
 I like 200s intervals since there are 432 of these in a day.
 
-#AI
+# AI
 The point of the datamarket is to feed machine learning algorithms that are training to understand plant growth. Before the defarm reaches the critical mass of grow data and user activity, I propose that grant money be used to train an in-house algorithm with the intention of developing a general agricultural AI.
 
 2. How do you train a general agriculture AI?
 
-#hackathon
+# Hackathon
 Not everyone can afford a fully equipped, standard issue experimental defarm node device. But there are other simpler grow apparatuses that can integrate into the defarm through data collection. We need a MVP defarm node that consists of a water proof raspberry pi, webcam, light sensor and humidity sensor.
 
-#gitcoin and oceanprotocol grants
+# gitcoin and oceanprotocol grants
