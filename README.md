@@ -95,6 +95,8 @@ I like 200s intervals since there are 432 of these in a day.
 The point of the datamarket is to feed machine learning algorithms that are training to understand plant growth. Before the defarm reaches the critical mass of grow data and user activity, I propose that grant money be used to train an in-house algorithm with the intention of developing a general agricultural AI.
 
 2. How do you train a general agriculture AI?
+Reinforcement Learning trained on controlled environment agriculture systems
+Computer Vision trained on plant livestream
 
 # Hackathon
 Not everyone can afford a fully equipped, standard issue experimental defarm node device. But there are other simpler grow apparatuses that can integrate into the defarm through data collection. We need a MVP defarm node that consists of a water proof raspberry pi, webcam, light sensor and humidity sensor.
